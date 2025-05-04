@@ -28,6 +28,6 @@ To reduce the friction in the pet adoption process and promote responsible pet c
 </p>
 
 ## 🔗 Full Case Study on Behance
-[👉 View Case Study on Behance]([https://www.behance.net/your-petcare-case-link](https://www.behance.net/gallery/204987723/UX-Case-Study-Pet-Care-App-%28PetPals%29))
+[👉 View Case Study on Behance](https://www.behance.net/your-petcare-case-link](https://www.behance.net/gallery/204987723/UX-Case-Study-Pet-Care-App-%28PetPals%29)
 
 ---
